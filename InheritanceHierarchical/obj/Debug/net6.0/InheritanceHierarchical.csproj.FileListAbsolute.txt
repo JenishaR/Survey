@@ -1,0 +1,15 @@
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\bin\Debug\net6.0\InheritanceHierarchical.exe
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\bin\Debug\net6.0\InheritanceHierarchical.deps.json
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\bin\Debug\net6.0\InheritanceHierarchical.runtimeconfig.json
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\bin\Debug\net6.0\InheritanceHierarchical.dll
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\bin\Debug\net6.0\InheritanceHierarchical.pdb
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.csproj.AssemblyReference.cache
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.AssemblyInfoInputs.cache
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.AssemblyInfo.cs
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.csproj.CoreCompileInputs.cache
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.dll
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\refint\InheritanceHierarchical.dll
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.pdb
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\InheritanceHierarchical.genruntimeconfig.cache
+C:\Users\jrajan\Documents\pro\InheritanceHierarchical\InheritanceHierarchical\obj\Debug\net6.0\ref\InheritanceHierarchical.dll
